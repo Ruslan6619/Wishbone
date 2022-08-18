@@ -278,3 +278,151 @@
         color: #645C55;
         max-width: 285px;
     }
+    .image-house
+    {
+        background-image: url("../images/house.jpg");
+        min-height: 600px;
+        background-size: cover;
+        display: flex;
+        justify-content: flex-end;
+        align-items:center;
+    }
+    .box-house{
+        max-width: 285px;
+        margin-right: 75px;
+    }
+    .image-house .box-house h3{
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 20px;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: #403E3B;
+    }
+    .image-house .box-house p{
+        font-family: 'Poppins';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        color: #645C55;
+    }
+    .image-staircase{
+        background-image: url("../images/staircase.jpg");
+        background-size: cover;
+        min-height: 600px;
+        display: flex;
+        justify-content: flex-end;
+        align-items: center;
+    }
+    .box-staircase{
+    max-width: 285px;
+    margin-right: 75px;
+    }
+    .image-staircase .box-staircase h3{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #403E3B;
+    }
+    .image-staircase .box-staircase p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #645C55;
+    }
+.image-swirling-staircase{
+    background-image: url("../images/swirling-staircase.jpg");
+    min-height: 600px;
+    display: flex;
+    align-items: center;
+    background-size: cover;
+}
+.box-swirling-staircase{
+    max-width: 285px;
+    margin-left: 60px;
+}
+.image-swirling-staircase .box-swirling-staircase h3{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #403E3B;
+}
+.image-swirling-staircase .box-swirling-staircase p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #645C55;
+}
+    .clients-section{
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #403E3B;;
+
+}
+    .box-clients{
+        max-width: 1170px;
+        margin: auto;
+        display: flex;
+        align-content: center;
+        height: 410px;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+    .box-flex-clients{
+        max-width: 450px;
+
+
+}
+.box-clients .box-flex-clients h4{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #ECE7E4;
+}
+.box-clients .box-flex-clients h3{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    color: #FFFFFF;
+    padding-bottom: 14px;
+}
+.box-clients .box-flex-clients p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 24px;
+    color: #ECE7E4;
+}
+.icon-company{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.icon-company-2{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
