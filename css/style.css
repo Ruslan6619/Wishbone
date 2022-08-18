@@ -378,15 +378,10 @@
         max-width: 1170px;
         margin: auto;
         display: flex;
-        align-content: center;
-        height: 410px;
-        justify-content: space-around;
-        flex-wrap: wrap;
         align-items: center;
     }
     .box-flex-clients{
         max-width: 450px;
-
 
 }
 .box-clients .box-flex-clients h4{
@@ -419,10 +414,18 @@
 .icon-company{
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    margin-left: 172px;
 }
 .icon-company-2{
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    margin-left: 92px;
+}
+.icon-hill-hayes{
+    margin-bottom: 160px;
+    padding-top: 64px;
+}
+.icon-riksgransen{
+    margin-bottom: 128px;
+    padding-top: 40px;
 }
